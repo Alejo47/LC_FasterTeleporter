@@ -1,0 +1,9 @@
+{
+  "name": "FasterTeleporter",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Alejo47/LC_FasterTeleporter",
+  "description": "Get rid of the timer on the inverse teleporter",
+  "dependencies": [
+    "2018-LC_API-2.1.2"
+  ]
+}
