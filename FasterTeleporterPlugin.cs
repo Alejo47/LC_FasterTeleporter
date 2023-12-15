@@ -12,8 +12,6 @@ namespace FasterTeleporter {
             try {
 
                 h.PatchAll(typeof(Patches.TeleporterPatches));
-
-                LC_API.ServerAPI.ModdedServer.SetServerModdedOnly();
                 Logger.LogInfo($"Loaded plugin {PluginInfo.PLUGIN_GUID}");
             } catch (Exception ex) {
                 Logger.LogInfo($"Error loading {PluginInfo.PLUGIN_GUID} (Exception)");

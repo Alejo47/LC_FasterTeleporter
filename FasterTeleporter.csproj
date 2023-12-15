@@ -33,9 +33,6 @@
     <Reference Include="UnityEngine.UI">
       <HintPath>/home/alejo/.steam/steam/steamapps/common/Lethal Company/Lethal Company_Data/Managed/UnityEngine.UI.dll</HintPath>
     </Reference>
-    <Reference Include="LC_API">
-      <HintPath>/home/alejo/.steam/steam/steamapps/common/Lethal Company/BepInEx/plugins/LC_API.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
   <ItemGroup>
